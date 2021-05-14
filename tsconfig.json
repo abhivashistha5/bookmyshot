@@ -68,6 +68,6 @@
     ],
     "include": [
       "src/**/*.ts",
-      "config/**/*.json",
+      "config/**/*.json", "src/services",
     ]
   }
