@@ -1,0 +1,15 @@
+# dev
+.vscode
+
+# node
+node_modules
+
+# system files
+*/.DS_Store
+
+# configs
+config/local.json
+.env
+
+#build
+dist/*
